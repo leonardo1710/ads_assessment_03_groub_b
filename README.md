@@ -1,6 +1,6 @@
 # Algorithms and Datastructures
 ## 03 In-class Assessment Group B
-This is the base repository of group b for the second in-class assessment in algorithms and datastructures.
+This is the base repository of group b for the third in-class assessment in algorithms and datastructures.
 
 
 The assignment will be distributed at the beginning of the assessment. Provide your solutions in ``main.py`` file. 
