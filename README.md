@@ -1,5 +1,5 @@
 # Algorithms and Datastructures
-## 02 In-class Assessment Group B
+## 03 In-class Assessment Group B
 This is the base repository of group b for the second in-class assessment in algorithms and datastructures.
 
 
